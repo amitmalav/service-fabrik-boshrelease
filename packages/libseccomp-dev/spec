@@ -1,0 +1,7 @@
+---
+name: libseccomp-dev
+
+dependencies: []
+
+files:
+- apt/libseccomp-dev/*.deb
